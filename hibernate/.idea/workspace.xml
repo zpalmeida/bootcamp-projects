@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bc8e883-e6da-42c5-a18e-0c610a479a10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/controller/AbstractController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/controller/MainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/controller/UserDetailsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/controller/UserListController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/service/MockUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/utils/Security.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/AbstractView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/LoginView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/MainView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/Messages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/UserDetailsView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/UserListView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-user-service/out/production/prompt-jdbc-skeleton/org/academiadecodigo/bootcamp/view/View.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="89" />
+    <option name="y" value="47" />
+    <option name="width" value="1771" />
+    <option name="height" value="952" />
+  </component>
+  <component name="ProjectId" id="1euJHV2F2rW3iEAbeuNljbrnul5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594987826196" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../entity-mapping" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.bootcamp.HelloWorld" />
+      <module name="hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bc8e883-e6da-42c5-a18e-0c610a479a10" name="Default Changelist" comment="" />
+      <created>1594982842624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594982842624</updated>
+      <workItem from="1594982844005" duration="4271000" />
+      <workItem from="1594993911789" duration="22000" />
+      <workItem from="1594994102826" duration="1838000" />
+      <workItem from="1594997222921" duration="7000" />
+      <workItem from="1594998811981" duration="18000" />
+      <workItem from="1594998886790" duration="12000" />
+      <workItem from="1595165465419" duration="544000" />
+    </task>
+    <task id="LOCAL-00001" summary="yo">
+      <created>1594987840296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594987840296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yo" />
+    <option name="LAST_COMMIT_MESSAGE" value="yo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595166018302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595166018302" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml:classmate:1.5.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
